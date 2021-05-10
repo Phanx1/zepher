@@ -1,4 +1,4 @@
-# Zepher Operating System
+# Zephyr Operating System
 A dive into ZephyrOS on a NXP MIMXRT-1060 EVK
 
 ZephyrOS
